@@ -1,0 +1,19 @@
+
+WORK > DEFAULT
+DEFAULT:               ./libraries/work/                 
+work:                  ./libraries/work/                 
+i2c_sda:               ./libraries/i2c_sda/              
+i2c_scl:               ./libraries/i2c_scl/              
+pio_led:               ./libraries/pio_led/              
+key:                   ./libraries/key/                  
+jtag_uart:             ./libraries/jtag_uart/            
+cpu:                   ./libraries/cpu/                  
+cpu_peripheral_bridge: ./libraries/cpu_peripheral_bridge/
+altera_ver:            ./libraries/altera_ver/           
+lpm_ver:               ./libraries/lpm_ver/              
+sgate_ver:             ./libraries/sgate_ver/            
+altera_mf_ver:         ./libraries/altera_mf_ver/        
+altera_lnsim_ver:      ./libraries/altera_lnsim_ver/     
+cyclonev_ver:          ./libraries/cyclonev_ver/         
+cyclonev_hssi_ver:     ./libraries/cyclonev_hssi_ver/    
+cyclonev_pcie_hip_ver: ./libraries/cyclonev_pcie_hip_ver/

@@ -1,0 +1,693 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'nios_audio_ins|ddr3|pll0|pll_afi_clk'
+Slack : -0.453
+TNS   : -2.950
+
+Type  : Slow 1100mV 85C Model Setup 'nios_audio_ins|ddr3|pll0|pll_afi_phy_clk'
+Slack : 0.091
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Setup 'nios_audio_ins|ddr3|pll0|pll_dq_write_clk'
+Slack : 0.638
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Setup 'nios_audio_ins|ddr3|pll0|pll_avl_clk'
+Slack : 0.837
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Setup 'nios_audio_ins|ddr3|pll0|pll_addr_cmd_clk'
+Slack : 0.989
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Setup 'nios_audio_ins|ddr3|pll0|pll_write_clk'
+Slack : 1.781
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Setup 'OSC_50_B3B'
+Slack : 4.360
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Setup 'altera_reserved_tck'
+Slack : 8.447
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Setup 'nios_audio_ins|ddr3|pll0|pll_config_clk'
+Slack : 8.877
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'nios_audio_ins|ddr3|pll0|pll_write_clk'
+Slack : 0.303
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'OSC_50_B3B'
+Slack : 0.343
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'nios_audio_ins|ddr3|pll0|pll_config_clk'
+Slack : 0.390
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'nios_audio_ins|ddr3|pll0|pll_avl_clk'
+Slack : 0.448
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'nios_audio_ins|ddr3|pll0|pll_afi_clk'
+Slack : 0.507
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'altera_reserved_tck'
+Slack : 0.526
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'nios_audio_ins|ddr3|pll0|pll_addr_cmd_clk'
+Slack : 0.622
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'nios_audio_ins|ddr3|pll0|pll_dq_write_clk'
+Slack : 0.659
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'nios_audio_ins|ddr3|pll0|pll_afi_phy_clk'
+Slack : 0.981
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'nios_audio_ins|ddr3|pll0|pll_afi_clk'
+Slack : -0.828
+TNS   : -716.575
+
+Type  : Slow 1100mV 85C Model Recovery 'nios_audio_ins|ddr3|pll0|pll_addr_cmd_clk'
+Slack : 0.523
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'nios_audio_ins|ddr3|pll0|pll_write_clk'
+Slack : 2.295
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'nios_audio_ins|ddr3|pll0|pll_afi_phy_clk'
+Slack : 7.605
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'OSC_50_B3B'
+Slack : 8.279
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'nios_audio_ins|ddr3|pll0|pll_avl_clk'
+Slack : 9.366
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'altera_reserved_tck'
+Slack : 11.317
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'nios_audio_ins|ddr3|pll0|pll_config_clk'
+Slack : 11.808
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'nios_audio_ins|ddr3|pll0|pll_afi_clk'
+Slack : -0.127
+TNS   : -0.648
+
+Type  : Slow 1100mV 85C Model Removal 'nios_audio_ins|ddr3|pll0|pll_addr_cmd_clk'
+Slack : 0.549
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'OSC_50_B3B'
+Slack : 0.813
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'nios_audio_ins|ddr3|pll0|pll_write_clk'
+Slack : 1.174
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'nios_audio_ins|ddr3|pll0|pll_avl_clk'
+Slack : 1.265
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'nios_audio_ins|ddr3|pll0|pll_config_clk'
+Slack : 1.278
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'altera_reserved_tck'
+Slack : 1.742
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'nios_audio_ins|ddr3|pll0|pll_afi_phy_clk'
+Slack : 1.788
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_dq_write_clk'
+Slack : 0.832
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_write_clk'
+Slack : 0.836
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_afi_clk'
+Slack : 1.111
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_addr_cmd_clk'
+Slack : 2.247
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_afi_phy_clk'
+Slack : 2.498
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'OSC_50_B3B'
+Slack : 8.313
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_avl_clk'
+Slack : 8.404
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 15.682
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_config_clk'
+Slack : 18.900
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'nios_audio_ins|ddr3|pll0|pll_afi_clk'
+Slack : -0.470
+TNS   : -6.073
+
+Type  : Slow 1100mV 0C Model Setup 'nios_audio_ins|ddr3|pll0|pll_afi_phy_clk'
+Slack : 0.243
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'nios_audio_ins|ddr3|pll0|pll_dq_write_clk'
+Slack : 0.676
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'nios_audio_ins|ddr3|pll0|pll_avl_clk'
+Slack : 0.897
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'nios_audio_ins|ddr3|pll0|pll_addr_cmd_clk'
+Slack : 0.972
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'nios_audio_ins|ddr3|pll0|pll_write_clk'
+Slack : 1.820
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'OSC_50_B3B'
+Slack : 4.546
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'nios_audio_ins|ddr3|pll0|pll_config_clk'
+Slack : 8.642
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'altera_reserved_tck'
+Slack : 8.686
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'OSC_50_B3B'
+Slack : 0.331
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'nios_audio_ins|ddr3|pll0|pll_write_clk'
+Slack : 0.347
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'nios_audio_ins|ddr3|pll0|pll_avl_clk'
+Slack : 0.428
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'nios_audio_ins|ddr3|pll0|pll_config_clk'
+Slack : 0.430
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'nios_audio_ins|ddr3|pll0|pll_afi_clk'
+Slack : 0.551
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'altera_reserved_tck'
+Slack : 0.567
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'nios_audio_ins|ddr3|pll0|pll_addr_cmd_clk'
+Slack : 0.648
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'nios_audio_ins|ddr3|pll0|pll_dq_write_clk'
+Slack : 0.789
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'nios_audio_ins|ddr3|pll0|pll_afi_phy_clk'
+Slack : 1.021
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'nios_audio_ins|ddr3|pll0|pll_afi_clk'
+Slack : -0.916
+TNS   : -789.947
+
+Type  : Slow 1100mV 0C Model Recovery 'nios_audio_ins|ddr3|pll0|pll_addr_cmd_clk'
+Slack : 0.789
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'nios_audio_ins|ddr3|pll0|pll_write_clk'
+Slack : 2.424
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'nios_audio_ins|ddr3|pll0|pll_afi_phy_clk'
+Slack : 7.732
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'OSC_50_B3B'
+Slack : 8.164
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'nios_audio_ins|ddr3|pll0|pll_avl_clk'
+Slack : 9.355
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'altera_reserved_tck'
+Slack : 11.444
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'nios_audio_ins|ddr3|pll0|pll_config_clk'
+Slack : 11.995
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'nios_audio_ins|ddr3|pll0|pll_afi_clk'
+Slack : -0.650
+TNS   : -20.268
+
+Type  : Slow 1100mV 0C Model Removal 'nios_audio_ins|ddr3|pll0|pll_addr_cmd_clk'
+Slack : 0.165
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'nios_audio_ins|ddr3|pll0|pll_avl_clk'
+Slack : 0.746
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'OSC_50_B3B'
+Slack : 0.759
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'nios_audio_ins|ddr3|pll0|pll_config_clk'
+Slack : 0.903
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'nios_audio_ins|ddr3|pll0|pll_write_clk'
+Slack : 1.126
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'altera_reserved_tck'
+Slack : 1.687
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'nios_audio_ins|ddr3|pll0|pll_afi_phy_clk'
+Slack : 1.765
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_dq_write_clk'
+Slack : 0.839
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_write_clk'
+Slack : 0.845
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_afi_clk'
+Slack : 1.111
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_addr_cmd_clk'
+Slack : 2.222
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_afi_phy_clk'
+Slack : 2.507
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'OSC_50_B3B'
+Slack : 8.287
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_avl_clk'
+Slack : 8.362
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 15.621
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_config_clk'
+Slack : 18.904
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'nios_audio_ins|ddr3|pll0|pll_dq_write_clk'
+Slack : 1.823
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'nios_audio_ins|ddr3|pll0|pll_addr_cmd_clk'
+Slack : 2.704
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'nios_audio_ins|ddr3|pll0|pll_write_clk'
+Slack : 2.929
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'nios_audio_ins|ddr3|pll0|pll_afi_clk'
+Slack : 3.381
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'nios_audio_ins|ddr3|pll0|pll_afi_phy_clk'
+Slack : 3.557
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'nios_audio_ins|ddr3|pll0|pll_avl_clk'
+Slack : 4.019
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'OSC_50_B3B'
+Slack : 7.703
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'altera_reserved_tck'
+Slack : 12.936
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'nios_audio_ins|ddr3|pll0|pll_config_clk'
+Slack : 14.276
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'OSC_50_B3B'
+Slack : 0.151
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'nios_audio_ins|ddr3|pll0|pll_write_clk'
+Slack : 0.156
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'nios_audio_ins|ddr3|pll0|pll_afi_clk'
+Slack : 0.176
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'altera_reserved_tck'
+Slack : 0.181
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'nios_audio_ins|ddr3|pll0|pll_avl_clk'
+Slack : 0.184
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'nios_audio_ins|ddr3|pll0|pll_config_clk'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'nios_audio_ins|ddr3|pll0|pll_addr_cmd_clk'
+Slack : 0.245
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'nios_audio_ins|ddr3|pll0|pll_afi_phy_clk'
+Slack : 0.339
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'nios_audio_ins|ddr3|pll0|pll_dq_write_clk'
+Slack : 0.734
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'nios_audio_ins|ddr3|pll0|pll_addr_cmd_clk'
+Slack : 2.127
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'nios_audio_ins|ddr3|pll0|pll_afi_clk'
+Slack : 2.700
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'nios_audio_ins|ddr3|pll0|pll_write_clk'
+Slack : 4.696
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'nios_audio_ins|ddr3|pll0|pll_afi_phy_clk'
+Slack : 10.460
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'OSC_50_B3B'
+Slack : 14.222
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'altera_reserved_tck'
+Slack : 14.661
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'nios_audio_ins|ddr3|pll0|pll_avl_clk'
+Slack : 15.189
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'nios_audio_ins|ddr3|pll0|pll_config_clk'
+Slack : 15.264
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'nios_audio_ins|ddr3|pll0|pll_afi_clk'
+Slack : 0.094
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'OSC_50_B3B'
+Slack : 0.293
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'nios_audio_ins|ddr3|pll0|pll_write_clk'
+Slack : 0.412
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'nios_audio_ins|ddr3|pll0|pll_config_clk'
+Slack : 0.530
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'nios_audio_ins|ddr3|pll0|pll_avl_clk'
+Slack : 0.704
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'altera_reserved_tck'
+Slack : 0.753
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'nios_audio_ins|ddr3|pll0|pll_afi_phy_clk'
+Slack : 0.818
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'nios_audio_ins|ddr3|pll0|pll_addr_cmd_clk'
+Slack : 0.845
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_write_clk'
+Slack : 1.307
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_dq_write_clk'
+Slack : 1.309
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_afi_clk'
+Slack : 2.221
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_addr_cmd_clk'
+Slack : 2.865
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_afi_phy_clk'
+Slack : 2.966
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'OSC_50_B3B'
+Slack : 8.844
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_avl_clk'
+Slack : 8.902
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 15.489
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_config_clk'
+Slack : 19.540
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'nios_audio_ins|ddr3|pll0|pll_dq_write_clk'
+Slack : 1.847
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'nios_audio_ins|ddr3|pll0|pll_addr_cmd_clk'
+Slack : 2.809
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'nios_audio_ins|ddr3|pll0|pll_write_clk'
+Slack : 2.947
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'nios_audio_ins|ddr3|pll0|pll_afi_clk'
+Slack : 3.589
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'nios_audio_ins|ddr3|pll0|pll_afi_phy_clk'
+Slack : 3.690
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'nios_audio_ins|ddr3|pll0|pll_avl_clk'
+Slack : 4.207
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'OSC_50_B3B'
+Slack : 7.869
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'altera_reserved_tck'
+Slack : 13.283
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'nios_audio_ins|ddr3|pll0|pll_config_clk'
+Slack : 14.683
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'OSC_50_B3B'
+Slack : 0.139
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'nios_audio_ins|ddr3|pll0|pll_write_clk'
+Slack : 0.142
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'nios_audio_ins|ddr3|pll0|pll_afi_clk'
+Slack : 0.167
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'altera_reserved_tck'
+Slack : 0.171
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'nios_audio_ins|ddr3|pll0|pll_avl_clk'
+Slack : 0.175
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'nios_audio_ins|ddr3|pll0|pll_config_clk'
+Slack : 0.180
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'nios_audio_ins|ddr3|pll0|pll_addr_cmd_clk'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'nios_audio_ins|ddr3|pll0|pll_afi_phy_clk'
+Slack : 0.383
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'nios_audio_ins|ddr3|pll0|pll_dq_write_clk'
+Slack : 0.745
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'nios_audio_ins|ddr3|pll0|pll_addr_cmd_clk'
+Slack : 2.490
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'nios_audio_ins|ddr3|pll0|pll_afi_clk'
+Slack : 3.208
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'nios_audio_ins|ddr3|pll0|pll_write_clk'
+Slack : 4.777
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'nios_audio_ins|ddr3|pll0|pll_afi_phy_clk'
+Slack : 10.631
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'OSC_50_B3B'
+Slack : 14.471
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'altera_reserved_tck'
+Slack : 14.933
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'nios_audio_ins|ddr3|pll0|pll_avl_clk'
+Slack : 15.455
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'nios_audio_ins|ddr3|pll0|pll_config_clk'
+Slack : 15.826
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'nios_audio_ins|ddr3|pll0|pll_afi_clk'
+Slack : -0.128
+TNS   : -2.052
+
+Type  : Fast 1100mV 0C Model Removal 'OSC_50_B3B'
+Slack : 0.267
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'nios_audio_ins|ddr3|pll0|pll_avl_clk'
+Slack : 0.421
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'nios_audio_ins|ddr3|pll0|pll_write_clk'
+Slack : 0.421
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'nios_audio_ins|ddr3|pll0|pll_config_clk'
+Slack : 0.489
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'altera_reserved_tck'
+Slack : 0.700
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'nios_audio_ins|ddr3|pll0|pll_addr_cmd_clk'
+Slack : 0.738
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'nios_audio_ins|ddr3|pll0|pll_afi_phy_clk'
+Slack : 0.788
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_write_clk'
+Slack : 1.301
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_dq_write_clk'
+Slack : 1.306
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_afi_clk'
+Slack : 2.220
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_addr_cmd_clk'
+Slack : 2.859
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_afi_phy_clk'
+Slack : 2.962
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'OSC_50_B3B'
+Slack : 8.845
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_avl_clk'
+Slack : 8.901
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 15.454
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'nios_audio_ins|ddr3|pll0|pll_config_clk'
+Slack : 19.542
+TNS   : 0.000
+
+------------------------------------------------------------

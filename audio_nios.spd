@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simPackage>
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_i2c_sda.v"
+   type="VERILOG"
+   library="i2c_sda" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_i2c_scl.v"
+   type="VERILOG"
+   library="i2c_scl" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_pio_led.v"
+   type="VERILOG"
+   library="pio_led" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_key.v"
+   type="VERILOG"
+   library="key" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_jtag_uart.v"
+   type="VERILOG"
+   library="jtag_uart" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu.ocp"
+   type="OTHER"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu.sdc"
+   type="SDC"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu.vo"
+   type="VERILOG"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_bht_ram.dat"
+   type="DAT"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_bht_ram.hex"
+   type="HEX"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_bht_ram.mif"
+   type="MIF"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_dc_tag_ram.dat"
+   type="DAT"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_dc_tag_ram.hex"
+   type="HEX"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_dc_tag_ram.mif"
+   type="MIF"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_ic_tag_ram.dat"
+   type="DAT"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_ic_tag_ram.hex"
+   type="HEX"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_ic_tag_ram.mif"
+   type="MIF"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_jtag_debug_module_sysclk.v"
+   type="VERILOG"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_jtag_debug_module_tck.v"
+   type="VERILOG"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_jtag_debug_module_wrapper.v"
+   type="VERILOG"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_mult_cell.v"
+   type="VERILOG"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_nios2_waves.do"
+   type="OTHER"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_ociram_default_contents.dat"
+   type="DAT"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_ociram_default_contents.hex"
+   type="HEX"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_ociram_default_contents.mif"
+   type="MIF"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_oci_test_bench.v"
+   type="VERILOG"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_rf_ram_a.dat"
+   type="DAT"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_rf_ram_a.hex"
+   type="HEX"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_rf_ram_a.mif"
+   type="MIF"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_rf_ram_b.dat"
+   type="DAT"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_rf_ram_b.hex"
+   type="HEX"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_rf_ram_b.mif"
+   type="MIF"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/audio_nios_cpu_test_bench.v"
+   type="VERILOG"
+   library="cpu" />
+ <file
+   path="audio_nios/simulation/submodules/altera_avalon_mm_clock_crossing_bridge.v"
+   type="VERILOG"
+   library="cpu_peripheral_bridge" />
+ <file
+   path="audio_nios/simulation/submodules/altera_avalon_dc_fifo.v"
+   type="VERILOG"
+   library="cpu_peripheral_bridge" />
+ <file
+   path="audio_nios/simulation/submodules/altera_dcfifo_synchronizer_bundle.v"
+   type="VERILOG"
+   library="cpu_peripheral_bridge" />
+ <file path="audio_nios/simulation/audio_nios.v" type="VERILOG" />
+ <topLevel name="audio_nios" />
+ <deviceFamily name="cyclonev" />
+ <modelMap
+   controllerPath="audio_nios.onchip_memory2_1"
+   modelPath="audio_nios.onchip_memory2_1" />
+ <modelMap controllerPath="audio_nios.DDR3" modelPath="audio_nios.DDR3" />
+</simPackage>

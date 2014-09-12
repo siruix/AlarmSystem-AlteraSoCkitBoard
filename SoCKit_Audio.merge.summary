@@ -1,0 +1,19 @@
+Partition Merge Status : Successful - Tue Mar 26 19:41:10 2013
+Quartus II 64-Bit Version : 13.0.0 Build 144 02/27/2013 SJ Full Version
+Revision Name : SoCKit_Audio
+Top-level Entity Name : SoCKit_Audio
+Family : Cyclone V
+Logic utilization (in ALMs) : 2,788 / 41,910 ( 7 % )
+Total registers : 3841
+Total pins : 166 / 499 ( 33 % )
+Total virtual pins : 0
+Total block memory bits : 3,620,832 / 5,662,720 ( 64 % )
+Total DSP Blocks : 2 / 112 ( 2 % )
+Total HSSI RX PCSs : 0 / 9 ( 0 % )
+Total HSSI PMA RX Deserializers : 0 / 9 ( 0 % )
+Total HSSI PMA RX ATT Deserializers : 0
+Total HSSI TX PCSs : 0 / 9 ( 0 % )
+Total HSSI PMA TX Serializers : 0 / 9 ( 0 % )
+Total HSSI PMA TX ATT Serializers : 0 / 9 ( 0 % )
+Total PLLs : 2 / 15 ( 13 % )
+Total DLLs : 0 / 4 ( 0 % )
